@@ -1,0 +1,6 @@
+{
+  "name": "REVERSEMARKET - Needs-First Smart Marketplace",
+  "description": "Post your requirement, let providers compete with offers, and evaluate smart matches with reverse bidding, AI assistance, and comparison analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
